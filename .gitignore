@@ -1,0 +1,43 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+.env/
+env/
+.venv/
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Test coverage files
+.coverage
+.hypothesis/
+
+# Local configuration
+.env
+*.local
+config.ini
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Docker files
+.docker/
